@@ -24,7 +24,8 @@ ip_address = input("IP Address: ")
 splitted_ip_digits = ip_address.split('.')
 dot = '.'
 
-first_three_ip_digits = splitted_ip_digits[0] + dot + splitted_ip_digits[1] + dot + splitted_ip_digits[2] + dot
+first_three_ip_digits = splitted_ip_digits[0]+ dot + splitted_ip_digits[1] + dot + 
+splitted_ip_digits[2] + dot
 starting_number = int(input("Starting IP Number: "))
 ending_number = int(input("Ending IP Number: "))
 ending_number = ending_number + 1
