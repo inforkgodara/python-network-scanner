@@ -1,6 +1,6 @@
 # Python Network Scanner
 
-This is a simple python script which scan ips in your network. This is used for educational purposes only. Please don't execute a port scanner against any website or IP address without explicit, written permission from the owner of the server or computer that you are targeting.
+This is a simple python script that scans your network using TCP protocol. This is used for educational purposes only. Please don't execute a port scanner against any website or IP address without explicit, written permission from the owner of the server or computer that you are targeting.
 
 ## Prerequisites
 
