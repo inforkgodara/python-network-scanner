@@ -10,7 +10,7 @@ In order to run the python script, your system must have the following programs/
 ## Approach
 * First need to clone this respiratory
 * Run python script script.py using py script.py in the terminal
-* The script will ask you to enter the ip address of gateway or server and Starting ip number and ending ip number
+* The script will ask you to enter the ip address of gateway or server and starting ip number and ending ip number
 * The script will execute and show you the ips whose are live
 
 ## Code
